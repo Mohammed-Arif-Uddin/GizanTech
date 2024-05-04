@@ -1,0 +1,20 @@
+.User img{
+height: 80px;
+}
+.User{
+    text-align: center;
+}
+.User nav{
+    background-color:black;
+    line-height:50px;
+    font-size: 20px;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin-right: 30px;
+    padding: 10px;
+}
+nav a:hover{
+    background-color:red
+}
